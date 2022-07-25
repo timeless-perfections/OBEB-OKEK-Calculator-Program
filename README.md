@@ -1,0 +1,2 @@
+# OBEB-OKEK-Calculator-Program
+I wrote a program to find the EBOB and LCC values of two numbers in Java.  EBOB: The greatest common divisor of two or more natural numbers is called the greatest common divisor of these numbers, in short EBOB.  LCM: The smallest of the common multiples of two or more natural numbers is called the least common multiple of these numbers, in short LCM. LCM = (n1*n2) / EBOB
